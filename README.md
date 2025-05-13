@@ -3,7 +3,7 @@
 </p >
 <p align="center">
   <a href=" ">
-    < img height="300" src="https://github.com/liusylab/Phemap/blob/main/main%20figure.png" align="center">
+    <img height="300" src="https://github.com/liusylab/Phemap/blob/main/phemap_main_figure.png" align="center">
   </a >
 </p >
 This is the code used for analysis in the article "The Dynamic Genetic Atlas of 122 Gestational Phenotypes". 
