@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Phemap</h1>
+  <h1 align="center">Mapping the Genetic Atlas of Gestational Phenotypes</h1>
 </p >
 <p align="center">
   <a href=" ">
